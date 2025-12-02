@@ -1,0 +1,10 @@
+{
+  "github.copilot.enable": {
+    "markdown": false
+  },
+  "[markdown]": {
+    "diffEditor.ignoreTrimWhitespace": true,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80
+  }
+}
